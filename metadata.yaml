@@ -1,0 +1,35 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland--3-of-6---England--7-of-9-the-Sixt_45681
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45681-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holingshed, Raphael
+    - Holinshead, Raphael
+    - Holinshed, Raphaell
+    - Holynshed, Raphael
+    - Holinshed, Ralph
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcsh 'Great Britain -- History -- Henry VII, 1485-1509'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+title: "Chronicles of England, Scotland and Ireland (3 of 6): England (7 of 9)\r\n\
+  Henrie the Seauenth, Sonne to Edmund Earle of Richmond, Which Edmund was Brother\
+  \ by the Moothers Side to Henrie the Sixt"
+url: http://www.gutenberg.org/ebooks/45681
